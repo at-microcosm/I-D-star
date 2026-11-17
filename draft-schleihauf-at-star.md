@@ -9,15 +9,15 @@ number:
 date:
 consensus: true
 v: 3
-area: Applications and Real-Time
-workgroup: Authenticated Transfer
+# area: Applications and Real-Time
+# workgroup: Authenticated Transfer
 keyword:
 venue:
-  group: Authenticated Transfer
-  type: Working Group
-  mail: atp@ietf.org
-  arch: https://mailarchive.ietf.org/arch/browse/atp/
-  github: at-microcosm/I-D-star
+#  group: Authenticated Transfer
+#  type: Working Group
+#  mail: atp@ietf.org
+#  arch: https://mailarchive.ietf.org/arch/browse/atp/
+  github: "at-microcosm/I-D-star"
 
 author:
  -
